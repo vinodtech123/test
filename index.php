@@ -1,7 +1,7 @@
 <?php
 
 
-echo "hello have ";
+echo "git now working";
 
 
 
